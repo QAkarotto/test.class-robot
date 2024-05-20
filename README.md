@@ -30,11 +30,10 @@ robot --version
 ## Executando os testes
 
 ```bash
-# Executa os testes da pasta 'Web/Tests/CancelLoadTC_Tests'
-python -m robot -d ./reports Web/Tests/CancelLoadTC_Tests
+# Executa os testes da pasta 'web/login'
+python -m robot -d ./reports web/login
 
 ```
 ## Sugestão de extensão no VS Code
 
-Robot Framework Language Server
-https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp
+[RobotCode - Robot Framework Support](https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp)
