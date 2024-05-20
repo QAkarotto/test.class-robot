@@ -1,6 +1,6 @@
 # Sobre o Projeto
 
-Projeto de automação de testes da aplicação TMS.
+Projeto usado para demonstrar o funcionamento do Robot Framework na aula da test.class.
 
 ## Instação
 ### Python
