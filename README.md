@@ -22,6 +22,12 @@ Abaixo segue o comando para instalar o Robot e todas as bibliotecas utilizadas n
 pip install -U -r requirements.txt
 ```
 
+Para instalar as dependências do node da Browser Library é necessário ter o [Node JS](nodejs.org) instalado e rodar o comando:
+
+```bash
+rfbrowser init
+```
+
 Para verificar a versão instalada do Robot basta digitar o seguinte comando no terminal:
 ```bash
 robot --version
